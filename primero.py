@@ -1,1 +1,1 @@
-print('Hola planeta')
+print('Hola')
